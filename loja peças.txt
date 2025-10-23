@@ -1,0 +1,37 @@
+!DOCTYPE html
+html lang=pt-br
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleLoja de Peças de Carrotitle
+    link rel=stylesheet href=style.css
+head
+body
+    header
+        h1Loja de Peças de Carroh1
+        pTodas com nota fiscal e fiscalizaçãop
+        a href=httpswa.me5511951263355 target=_blank class=whatsapp-buttonWhatsApp 11 95126-3355a
+    header
+
+    main
+        section class=produtos
+            h2Nossas Peçash2
+            div class=produto
+                img src=imagenspeca1.jpg alt=Peça 1
+                h3Peça 1h3
+                pDescrição da peça 1.p
+            div
+            div class=produto
+                img src=imagenspeca2.jpg alt=Peça 2
+                h3Peça 2h3
+                pDescrição da peça 2.p
+            div
+            !-- Repita os blocos de produto para cada peça --
+        section
+    main
+
+    footer
+        p&copy; 2025 Loja de Peças de Carrop
+    footer
+body
+html
